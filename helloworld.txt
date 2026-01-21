@@ -4,3 +4,5 @@ i confused a little bit
 between git and github
 still im trying to learn and practicing 
 my name is sindhuja
+
+echo"hello sindhu"
